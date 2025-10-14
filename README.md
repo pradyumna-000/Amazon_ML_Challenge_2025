@@ -1,4 +1,8 @@
 # Amazon_ML_Challenge_2025
+**TEAM_NAME** - Maverick_000
+
+<img width="1918" height="610" alt="Screenshot 2025-10-15 002016" src="https://github.com/user-attachments/assets/ee1fca56-5d15-478d-929b-8e27aeafd45c" />
+
 
 ## Problem Statement -
 ### Smart Product Pricing Challenge 
@@ -31,3 +35,19 @@ Formula:
 SMAPE = (1/n) * Σ |predicted_price - actual_price| / ((|actual_price| + |predicted_price|)/2) <br>
 Example: If actual price = $100 and predicted price = $120 <br>
 SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18% <br>
+
+## Approach 
+
+**Summary of My Approach**
+
+I tested different ways to predict prices using product text and image data.
+
+1) **BERT** gave the best results with the **lowest SMAPE score of around 47**. It clearly outperformed the other methods.
+
+2) I also experimented with **ConvNeXt** to extract text information from image data.
+
+3) In addition, I tried a **lightweight OCR** method using PaddleOCR to pull text from images.
+
+Overall, BERT was the most accurate and reliable model in my experiments.
+
+
