@@ -1,7 +1,7 @@
 # Amazon_ML_Challenge_2025
 **TEAM_NAME** - Maverick_000
 
-<img width="1918" height="610" alt="Screenshot 2025-10-15 002016" src="https://github.com/user-attachments/assets/ee1fca56-5d15-478d-929b-8e27aeafd45c" />
+<img width="1918" height="610" alt="Screenshot 2025-10-15 002016" src="[https://github.com/user-attachments/assets/ee1fca56-5d15-478d-929b-8e27aeafd45c](https://github.com/pradyumna-000/Amazon_ML_Challenge_2025/blob/main/Screenshot%202025-10-16%20183252.png?raw=true)" />
 
 
 ## Problem Statement -
