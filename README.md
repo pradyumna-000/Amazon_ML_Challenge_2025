@@ -42,7 +42,7 @@ SMAPE = |100-120| / ((|100| + |120|)/2) * 100% = 18.18% <br>
 
 I tested different ways to predict prices using product text and image data.
 
-1) **BERT** gave the best results with the **lowest SMAPE score of around 47**. It clearly outperformed the other methods.
+1) **BERT** gave the best results with the **lowest SMAPE score of around 45.51595031**. It clearly outperformed the other methods.
 
 2) I also experimented with **ConvNeXt** to extract text information from image data.
 
